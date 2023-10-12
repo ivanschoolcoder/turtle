@@ -36,7 +36,7 @@ def move():
 def r_press():
     color("red")
 def y_press():
-    color("yelow")
+    color("yellow")
 def g_press():
     color("green")
 def p_press():
